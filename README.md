@@ -1,3 +1,3 @@
 # Mgateway with flask
 
-Mgateway is gateway to redirect telegram messages from your private LAN to the internet. 
+Mgateway is an app to redirect telegram messages from your private LAN to the internet. 
