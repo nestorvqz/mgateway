@@ -26,8 +26,9 @@ tasks = [
 ]
 def telegram_bot_sendtext(bot_message):
 
-   bot_token = '996303276:AAGzG4KOztClAl2jbjG99BPSh3QzSANW9Lw'
-   bot_chatID = '1597774132'
+   
+   bot_token = '999999999:AAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+   bot_chatID = 'ddddddd'
    send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
   # send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&text=' + bot_message
   
